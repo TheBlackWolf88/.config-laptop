@@ -1,0 +1,3207 @@
+{
+	"library": [
+		{
+			"app_name": "UE_4.27Chaos",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "4.27-Chaos",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.27Chaos",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "4.27-Chaos",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "19927295d6e3467887d4e830d8c85963",
+			"art_cover": "https://cdn1.epicgames.com/9d2f484bbec64aa8ad234b3199dcaf1c/item/EGS_AbsoluteDrift_FunselektorLabsInc_S5-1920x1080-955a96c6e86c9bf5d0b5136f9c4639d6.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/9d2f484bbec64aa8ad234b3199dcaf1c/item/EGS_AbsoluteDrift_FunselektorLabsInc_S2-1200x1600-d61d185c1a25c41b211b497b89648832.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Funselektor Labs INC",
+			"extra": {
+				"about": {
+					"description": "Absolute Drift",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "AbsoluteDrift",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "9d2f484bbec64aa8ad234b3199dcaf1c",
+			"save_folder": "",
+			"title": "Absolute Drift",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Curry",
+			"art_cover": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+			"art_logo": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
+			"art_square": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
+			"cloud_save_enabled": false,
+			"developer": "505 Games S.r.l.",
+			"extra": {
+				"about": {
+					"description": "ABZU",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "ABZU",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+			"save_folder": "",
+			"title": "ABZU",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "8935bb3e1420443a9789fe01758039a5",
+			"art_cover": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+			"cloud_save_enabled": true,
+			"developer": "SEGA of Europe",
+			"extra": {
+				"about": {
+					"description": "Alien: Isolation",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "AlienIsolation",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "df37f065c3f14eadbf011177396e2966",
+			"save_folder": "{AppData}/The Creative Assembly/Alien Isolation/",
+			"title": "Alien: Isolation",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "963137e4c29d4c79a81323b8fab03a40",
+			"art_cover": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/item/EGS_AmongUs_Innersloth_S1-2560x1440-0a2daa0c14a0e5bb142a3cd0e347e791.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/item/EGS_AmongUs_Innersloth_S2-1200x1600-1ed84c94766b627a7e2848a01d704b7a.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Innersloth",
+			"extra": {
+				"about": {
+					"description": "Among Us",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "AmongUs",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "33956bcb55d4452d8c47e16b94e294bd",
+			"save_folder": "",
+			"title": "Among Us",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Dodo",
+			"art_cover": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_Wide-2560x1440-e4f153cd792f973e00583178d8408128.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_Tall-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+			"cloud_save_enabled": true,
+			"developer": "2K Games, Inc.",
+			"extra": {
+				"about": {
+					"description": "Borderlands 2",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Borderlands2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+			"save_folder": "{UserDir}/My Games/Borderlands 2/WillowGame/SaveData/{EpicId}/",
+			"title": "Borderlands 2",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Turkey",
+			"art_cover": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequel_Wide-2560x1440-0e1682595bdaab7a226149a5154c426e.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Epic Dev Test Account",
+			"extra": {
+				"about": {
+					"description": "Borderlands: The Pre-Sequel",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "BorderlandsThePreSequel",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "6110c92696a54f108c8e9002713ea5f9",
+			"save_folder": "{UserDir}/My Games/Borderlands The Pre-Sequel/WillowGame/SaveData/{EpicId}/",
+			"title": "Borderlands: The Pre-Sequel",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "1dea8a6ddb544842a58e4b5c8675ff58",
+			"art_cover": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/item/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/item/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Nicalis",
+			"extra": {
+				"about": {
+					"description": "Cave Story+",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "CaveStoryPlus",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "78473822f724474d8e436f6bde735623",
+			"save_folder": "{InstallDir}/",
+			"title": "Cave Story+",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "bcbc03d8812a44c18f41cf7d5f849265",
+			"art_cover": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/item/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/item/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Paradox Interactive",
+			"extra": {
+				"about": {
+					"description": "Cities: Skylines",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "CitiesSkylines",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "6009be9994c2409099588cde6f3a5ed0",
+			"save_folder": "{AppData}/Colossal Order/Cities_Skylines/Saves/",
+			"title": "Cities: Skylines",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "KingletAztec",
+			"art_cover": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+			"cloud_save_enabled": false,
+			"developer": "2K Games, Inc.",
+			"extra": {
+				"about": {
+					"description": "Civilization VI : Aztec DLC",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "AztecDLC",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": 1,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "cd14dcaa4f3443f19f7169a980559c62",
+			"save_folder": "",
+			"title": "Civilization VI : Aztec DLC",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Silene",
+			"art_cover": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg",
+			"cloud_save_enabled": true,
+			"compatible_apps": [],
+			"developer": "Wired Productions",
+			"extra": {
+				"about": {
+					"description": "Close to the Sun",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "CloseToTheSun",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "silene",
+			"save_folder": "{appdata}/ctts/Saved/SaveGames/",
+			"title": "Close to the Sun",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Calluna",
+			"art_cover": "https://cdn1.epicgames.com/calluna/item/control_game_page_promotion_2560x1440-2560x1440-0939cd986172378295469e23006d560e.jpg",
+			"art_logo": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
+			"art_square": "https://cdn1.epicgames.com/calluna/item/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg",
+			"cloud_save_enabled": true,
+			"compatible_apps": [],
+			"developer": "505 Games",
+			"extra": {
+				"about": {
+					"description": "Control",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Control",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "calluna",
+			"save_folder": "{AppData}/Remedy/Control/Default-Epic-User/",
+			"title": "Control",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "18fafa2d70d64831ab500a9d65ba9ab8",
+			"art_cover": "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/item/EGS_CryingSunsisatacticalroguelite_AltShift_S1-2560x1440-fe76927669c4b3d6e03da9d614693a9c.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/item/EGS_CryingSunsisatacticalroguelite_AltShift_S2-1200x1600-cade755556a8d2b988626591b9464449.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Humble Bundle",
+			"extra": {
+				"about": {
+					"description": "Crying Suns",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "CryingSuns",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "0a4fc789eb0143c29296de79df5387ab",
+			"save_folder": "{AppData}/../LocalLow/Alt Shift/Crying Suns/saves/save0/",
+			"title": "Crying Suns",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "c35b9699c4e24c56976b5bd8eceba464",
+			"art_cover": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/item/EGS_DandaraTrialsofFearEdition_LongHatHouse_S1-2560x1440-d20ffd22ba6944939635a2af807d3610.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/item/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Raw Fury",
+			"extra": {
+				"about": {
+					"description": "Dandara: Trials of Fear Edition",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Dandara",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "73b62f4875a248d8acc95966ce94c80f",
+			"save_folder": "",
+			"title": "Dandara: Trials of Fear Edition",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "36cbf259e631478eaac6ea244e55a709",
+			"art_cover": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeon_RedHookStudios_S1-2560x1440-2be182928926fc00b92de0af67f12898.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Red Hook Studios",
+			"extra": {
+				"about": {
+					"description": "Darkest Dungeon®",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "DarkestDungeon",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "21916c391ae4425d8f6cce2382aebd0c",
+			"save_folder": "{UserDir}/Darkest/",
+			"title": "Darkest Dungeon®",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Hoki",
+			"art_cover": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg",
+			"cloud_save_enabled": false,
+			"developer": "THQ Nordic GmbH",
+			"extra": {
+				"about": {
+					"description": "Darksiders II Deathinitive Edition",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Darksiders2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "091d95ea332843498122beee1a786d71",
+			"save_folder": "",
+			"title": "Darksiders II Deathinitive Edition",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "ee96375fac2f47de978170a24398e581",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DARQCompleteEdition_UnfoldGames_S1_2560x1440_2560x1440-15e5dda133bae02a6b9cdf6086ec03f3",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DARQCompleteEdition_UnfoldGames_S2_1200x1600_1200x1600-d53e44ba5b0dc0e019ee698f02b6d300",
+			"cloud_save_enabled": false,
+			"developer": "Unfold Games, LLC",
+			"extra": {
+				"about": {
+					"description": "DARQ",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "DARQ",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3819de76dedf4cd2aebbcf9279e23e43",
+			"save_folder": "",
+			"title": "DARQ",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Jackal",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-9224001227581e63c8775e0b7835074e",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-0a20dcb104fff0fb19e468580942bc21",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Phoenix Labs",
+			"extra": {
+				"about": {
+					"description": "Dauntless",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Dauntless",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "jackal",
+			"save_folder": "",
+			"title": "Dauntless",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "65397974e2b8402faa4ca17573f98137",
+			"art_cover": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_LandscapeOffer-2560x1440-621fa28976e0717322ec11de83e8f2c3.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_PortraitOffer-860x1148-ebc228d3328ed383e4b6b62fd676b49c.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Dev Test Account",
+			"extra": {
+				"about": {
+					"description": "Dauntless Experimental",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "JackalExperimental",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "jackal",
+			"save_folder": "",
+			"title": "Dauntless Experimental",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "a434dcb20f0d439b93aaa31dac9e3210",
+			"art_cover": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Hidden Path",
+			"extra": {
+				"about": {
+					"description": "Defense Grid: The Awakening",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "DefenseGrid",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+			"save_folder": "{AppData}/DefenseGrid/",
+			"title": "Defense Grid: The Awakening",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "03b7b25a77024cc0adf44777f791ffc4",
+			"art_cover": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Daedalic Entertainment",
+			"extra": {
+				"about": {
+					"description": "Deponia The Complete Journey",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "DeponiaTCJ",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "e5decf71f325458b92653616ee98682a",
+			"save_folder": "{AppData}/Daedalic Entertainment GmbH/Deponia The Complete Journey/Savegames/",
+			"title": "Deponia The Complete Journey",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "9c203b6ed35846e8a4a9ff1e314f6593",
+			"art_cover": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/item/EGS_EliteDangerous_FrontierDevelopments_S1-2560x1440-ff83482418be695513db5f4adec99a66.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/item/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Frontier Developments",
+			"extra": {
+				"about": {
+					"description": "Elite Dangerous",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "EliteDangerous",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3db17abfd650423f993291624b1b2ac1",
+			"save_folder": "",
+			"title": "Elite Dangerous",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Garlic",
+			"art_cover": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
+			"art_logo": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
+			"art_square": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Devolver Digital, Inc.",
+			"extra": {
+				"about": {
+					"description": "Enter the Gungeon",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "EnterTheGungeon",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+			"save_folder": "{appdata}/../locallow/Dodge Roll/Enter the Gungeon/",
+			"title": "Enter the Gungeon",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Stellula",
+			"art_cover": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/EGS-GIANTS-FS19-2560x1440-Library_Standard-V2-2560x1440-87989acd9b288dcc560a2bd0fb5e8676.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Focus Home",
+			"extra": {
+				"about": {
+					"description": "Farming Simulator 19",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "FarmingSimulator19",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "493e9ad801e8487497fe7840cb8404bb",
+			"save_folder": "{UserDir}/My Games/FarmingSimulator2019/",
+			"title": "Farming Simulator 19",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "ed5e8d42b2ac461eb6f9176d163b9515",
+			"art_cover": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/EGS_Figment_BedtimeDigitalGames_S4-510x680-9ad7fc1bc7e6c8dae1674c2773c759d1.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Bedtime Digital Games ApS",
+			"extra": {
+				"about": {
+					"description": "Figment",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Figment",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "270e1d648a5e4060b7b441615c4da4d9",
+			"save_folder": "",
+			"title": "Figment",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "bf35243e8c3542e082bc7042e0592183",
+			"art_cover": "https://cdn1.epicgames.com/c1ccf2ba1bc1473abb6ca5168e1a670c/item/EGS_FootballManager2020_SportsInteractive_S1-2560x1440-6b25387abd0583c79d71b2ee73008633.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/c1ccf2ba1bc1473abb6ca5168e1a670c/item/EGS_FootballManager2020_SportsInteractive_S2-1200x1600-458c5f71663d769a40cbac02466d51db.jpg",
+			"cloud_save_enabled": false,
+			"developer": "SEGA of Europe",
+			"extra": {
+				"about": {
+					"description": "Football Manager 2020",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "FootballManager2020",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+			"save_folder": "",
+			"title": "Football Manager 2020",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Discus",
+			"art_cover": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/Diesel_productv2_for-the-king_EGS_IronOakGames_ForTheKing_G1C_00-1920x1080-fe6c412cac9a22dd1a9df2eeab05d0a3cd34761b-1920x1080-60e45fce935660131ba319296fe00037.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/EGS_IronOakGames_ForTheKing_S4-510x680-510x680-7591bc93f2768be40c30f242fc986cd0.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Curve Digital",
+			"extra": {
+				"about": {
+					"description": "For The King",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "ForTheKing",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
+			"save_folder": "{appdata}/../locallow/IronOak Games/FTK/save/",
+			"title": "For The King",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Fortnite",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/18BR_S18_Launcher_EGS_Blade_2560x1440_2560x1440-da6f6a137b90887357222b762c7675a1",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/18BR_S18_Launcher_EGS_Blade_1200x1600_1200x1600-1a2b312c8f004e0dff3d5ed7491f1152",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Battle. Build. Create. Fortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream Fortnite world. Play both Battle Royale and Fortnite Creative for FREE.",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Fortnite",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "fn",
+			"save_folder": "",
+			"title": "Fortnite",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "b2e00fc16632475782a7730d1bd7cb60",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S1_2560x1440-ef2f4d458120af0839dde35b1a022828",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S2_1200x1600-c71dc27cfe505c6c662c49011b36a0c5",
+			"cloud_save_enabled": true,
+			"developer": "11 Bit Studios",
+			"extra": {
+				"about": {
+					"description": "Frostpunk",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Frostpunk",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "be886d9db65047a89b24cd4317695f18",
+			"save_folder": "{AppData}/../Roaming/11bitstudios/Frostpunk/",
+			"title": "Frostpunk",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "5f1c66366b2c4a6496d535d88c56e6cf",
+			"art_cover": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S1-2560x1440-54fd03f3d8441c3f43ad347e7c64da04.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Stardock Entertainment, Inc",
+			"extra": {
+				"about": {
+					"description": "Galactic Civilizations III",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "GalacticCivilizations3",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3c52fbac843d4375803187739db84801",
+			"save_folder": "{UserDir}/My Games/GC3Crusade/",
+			"title": "Galactic Civilizations III",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "8931f79300d04c5889799bffc8ef70bd",
+			"art_cover": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/gc3_bigart_testedition-2560x1440-a3a1f73ccfa39a1f23f19a2b4030b2ce.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/epic_1200x1600_gc3boxart-1200x1600-acffe85167d8ed1abe5d394136078577.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Stardock Entertainment, Inc",
+			"extra": {
+				"about": {
+					"description": "Galactic Civilizations III (Test branch)",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "GC3TestBranch",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3c52fbac843d4375803187739db84801",
+			"save_folder": "",
+			"title": "Galactic Civilizations III (Test branch)",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Flier",
+			"art_cover": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/item/GoneHome_QuickLaunch-4267x2400-5799b134c7134b4aa477b0949c451cb8.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/item/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg",
+			"cloud_save_enabled": true,
+			"developer": "The Fullbright Company",
+			"extra": {
+				"about": {
+					"description": "Gone Home",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "GoneHome",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "52326e805bac4619a4a8fac165363a42",
+			"save_folder": "{AppData}/../LocalLow/The Fullbright Company/Gone Home/Saves/",
+			"title": "Gone Home",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "b9e848fc5e844f4285b0624789476664",
+			"art_cover": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s1-2560x1440-93175c05e6e9-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Massive Damage",
+			"extra": {
+				"about": {
+					"description": "Halcyon 6",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Halcyon6",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+			"save_folder": "{AppData}/../LocalLow/MASSDMG/Halcyon6LSE/",
+			"title": "Halcyon 6",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "5ade01bafec54a148024665ce978b2a4",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S1_2560x1440-b9528f8932eadbc39d5e03db5d798859",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S2_1200x1600-da6dce7cd466a31ae78e34ccdc27bab8",
+			"cloud_save_enabled": true,
+			"developer": "Kongregate",
+			"extra": {
+				"about": {
+					"description": "Hell is other demons\n",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "HellisOtherDemons",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "643a8667d7a940b8b36094020fcd0dcf",
+			"save_folder": "{InstallDir}/Saves/",
+			"title": "Hell is other demons",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Barbet",
+			"art_cover": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/item/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S3-1360x766-6becb0825ddf48b1511a6f8e9be02f9f.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/item/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg",
+			"cloud_save_enabled": false,
+			"developer": "IO Interactive",
+			"extra": {
+				"about": {
+					"description": "HITMAN",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "HITMAN",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3c06b15a8a2845c0b725d4f952fe00aa",
+			"save_folder": "",
+			"title": "HITMAN",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Lyrebird",
+			"art_cover": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/item/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/item/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Perfect World",
+			"extra": {
+				"about": {
+					"description": "Hob",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Hob",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+			"save_folder": "",
+			"title": "Hob",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "bb406082b69a47208489d3616b22b5c2",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+			"cloud_save_enabled": true,
+			"developer": "AQUIRIS",
+			"extra": {
+				"about": {
+					"description": "Horizon Chase Turbo",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "HorizonChaseTurbo",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "253d451b16364a22907dd01b7e928fb6",
+			"save_folder": "{AppData}/../LocalLow/Aquiris/HorizonChaseTurbo/HorizonChaseTurbo_EpicGameStore/",
+			"title": "Horizon Chase Turbo",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Grouse",
+			"art_cover": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Thunder Lotus Games",
+			"extra": {
+				"about": {
+					"description": "Jotun Valhalla Edition",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Jotun",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ba3149b6d7a7488ab5cc674154458757",
+			"save_folder": "",
+			"title": "Jotun Valhalla Edition",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "373a4372c20540aca7fdd880d27fa49a",
+			"art_cover": "https://cdn1.epicgames.com/047392e91d5e4cfdb19e2767440ab206/item/EGS_JurassicWorldEvolution_FrontierDevelopments_S1-2560x1440-65771d1c16c9c78bfd4764bf0ad54d9a.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/047392e91d5e4cfdb19e2767440ab206/item/EGS_JurassicWorldEvolution_FrontierDevelopments_S2-1200x1600-d132a04130d2fad11948e182046f50dc.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Frontier Developments",
+			"extra": {
+				"about": {
+					"description": "Jurassic World Evolution",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "JurassicWorldEvolution",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "047392e91d5e4cfdb19e2767440ab206",
+			"save_folder": "{UserSavedGames}/Frontier Developments/Jurassic World Evolution/{EpicID}/",
+			"title": "Jurassic World Evolution",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "Kakopo",
+			"art_cover": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/item/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/item/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Square Enix",
+			"extra": {
+				"about": {
+					"description": "Just Cause 4",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "JustCause4",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ba8062bdcc1342c0b78743e3c6242575",
+			"save_folder": "",
+			"title": "Just Cause 4",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "819985835fd54090845e3083e28b77bb",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S1_2560x1440-d6e940a0b8e56e26ed4e8f11e936b887",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S2_1200x1600-7f09b826a330e216f32de8c86b2ac467",
+			"cloud_save_enabled": true,
+			"developer": "Daedalic Entertainment",
+			"extra": {
+				"about": {
+					"description": "Ken Follett's The Pillars of the Earth",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "PillarsoftheEarth",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ce8393adfbf342ceab0a36479ffbc627",
+			"save_folder": "{AppData}/Daedalic Entertainment GmbH/The Pillars of the Earth/Savegames/",
+			"title": "Ken Follett's The Pillars of the Earth",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "8b5f1c51be3844bab51e2ee1089839f5",
+			"art_cover": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/wide-2560x1440-334c0940d45f04b34d3d2b55ae838182.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/tall-1200x1600-4f774989309b1f52a50628ff93b4ed7c.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Kalypso Media Group GmbH",
+			"extra": {
+				"about": {
+					"description": "Map Pack",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "MapPack",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "7015c51a49be4592b5ba3ae2577723c5",
+			"save_folder": "",
+			"title": "Map Pack",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Speedwell",
+			"art_cover": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Library_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg",
+			"art_logo": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/Game_Logo_MetroLL-Redux-1405x800-ec83b03aee77d67518e84b19de861cd2.png",
+			"art_square": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Koch Media",
+			"extra": {
+				"about": {
+					"description": "Metro Last Light Redux",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "MetroLastLightRedux",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "c5e786eddfd041caa9984213e3f9621d",
+			"save_folder": "",
+			"title": "Metro Last Light Redux",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "b5e42b0dc2f544a5bbb4080a433b8b71",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NiohTheCompleteEdition_KOEITECMOGAMESCOLTD_S1_2560x1440-2a6124e6033545b37abd715282f8ba98",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NiohTheCompleteEdition_KOEITECMOGAMESCOLTD_S2_1200x1600-4723c89d30b680dafa5cf9f279a6cfb7",
+			"cloud_save_enabled": true,
+			"developer": "Koei Tecmo",
+			"extra": {
+				"about": {
+					"description": "Nioh: The Complete Edition",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Nioh",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3622b6ddc5c849b1826085d5fe492eae",
+			"save_folder": "{UserDir}/KoeiTecmo/NIOH/Savedata/{EpicID}/",
+			"title": "Nioh: The Complete Edition",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "7c566548d24343e48151125ced4b494c",
+			"art_cover": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/item/EGS_OddworldNewnTasty_JustAddWater_S1-2560x1440-ef590ffd342627994efeb96591e63489.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/item/EGS_OddworldNewnTasty_JustAddWater_S2-1200x1600-9105b63cfe95ad9a49cbb3ab87c85164.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Oddworld Inhabitants Inc.",
+			"extra": {
+				"about": {
+					"description": "Oddworld: New 'n' Tasty",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "OddworldNewNTasty",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "56eab841eaab4016b9fedd2350f997b6",
+			"save_folder": "",
+			"title": "Oddworld: New 'n' Tasty",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Sage",
+			"art_cover": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/PDPPromo-2560x1440-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+			"art_logo": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png",
+			"art_square": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Team17 Digital Ltd",
+			"extra": {
+				"about": {
+					"description": "Overcooked",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Overcooked",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "4561b40e52584ac2bcf34bbd5c401480",
+			"save_folder": "{appdata}/../locallow/Ghost Town Games/Overcooked/",
+			"title": "Overcooked",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Potoo",
+			"art_cover": "https://cdn1.epicgames.com/2d94b7b33d7f4d02a8fff6fbf71ac7ab/item/egs-overcooked2-ghosttowngamesandteam17digitalltd-s5-1920x1080-846624431-1920x1080-199f84aa92269c75b85715c0d281e86e.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/2d94b7b33d7f4d02a8fff6fbf71ac7ab/item/egs-overcooked2-ghosttowngamesandteam17digitalltd-s2-1200x1600-846624393-1200x1600-fbae89fad70c05cd1979316f620e64a9.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Team17 Digital Ltd",
+			"extra": {
+				"about": {
+					"description": "Overcooked! 2",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Overcooked2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+			"save_folder": "{appdata}/../locallow/Team17/Overcooked2/{EpicID}/",
+			"title": "Overcooked! 2",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "48619f5656da446abccb727b78cda644",
+			"art_cover": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/item/wide-2560x1440-5c9c09d4625543a5c9ad8315fbcd08ca.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/item/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Devolver Digital, Inc.",
+			"extra": {
+				"about": {
+					"description": "Pikuniku",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Pikuniku",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "c50f4a5c796e4abdbf8025cfbf5cff21",
+			"save_folder": "{AppData}/../LocalLow/Sectordub/Pikuniku/saves/",
+			"title": "Pikuniku",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "bcc75c246fe04e45b0c1f1c3fd52503a",
+			"art_cover": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/item/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S1-2560x1440-63837edb7f15450723236aeb4bb1e7cf.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/item/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S6-1200x1600-2f4f12cb53246a87a6798826c9c5544f.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Paradox Interactive",
+			"extra": {
+				"about": {
+					"description": "Pillars of Eternity - Definitive Edition",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "PillarsOfEternity",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "25e53de2e4ab4da8aa589d881273a11c",
+			"save_folder": "",
+			"title": "Pillars of Eternity - Definitive Edition",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "8e975c15166a4a1ca28d65fdfa411248",
+			"art_cover": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/item/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S1-2560x1440-63837edb7f15450723236aeb4bb1e7cf.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/item/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S6-1200x1600-2f4f12cb53246a87a6798826c9c5544f.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Paradox Interactive",
+			"extra": {
+				"about": {
+					"description": "Pillars of Eternity - Definitive Edition Pack",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "DefinitiveEditionPack",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "25e53de2e4ab4da8aa589d881273a11c",
+			"save_folder": "",
+			"title": "Pillars of Eternity - Definitive Edition Pack",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "ad3d0f08dd0841d8a1ba77d94ded4773",
+			"art_cover": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s1-2560x1440-6c0e47266975-2560x1440-17dce1a4b7078e52a2d710deb8f23a63.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Bethesda Softworks LLC",
+			"extra": {
+				"about": {
+					"description": "Rage 2",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Rage2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+			"save_folder": "{UserSavedGames}/id Software/Rage 2/Saves/",
+			"title": "Rage 2",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Tern",
+			"art_cover": "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/item/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S3-2560x1440-e08edd93cb71bf15b50a74f3de2d17b0.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/item/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S4-1200x1600-5e3b2f8107e17cc008237e52761d67e5.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Tripwire Interactive",
+			"extra": {
+				"about": {
+					"description": "Rising Storm 2: Vietnam",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "RS2V",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3542a1df211e492bb2abecb7c734f7f9",
+			"save_folder": "",
+			"title": "Rising Storm 2: Vietnam",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Sugar",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LandscapeProductImage_2560x1440_2560x1440-5962106d6d94a5fd6db07bb922166f0a",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OfferPortraitImage_1200x1600_1200x1600-b5dd3a57c63f33d7a2831993327dcc21",
+			"cloud_save_enabled": false,
+			"developer": "Psyonix LLC",
+			"extra": {
+				"about": {
+					"description": "Rocket League®",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "rocketleague",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+			"save_folder": "",
+			"title": "Rocket League®",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "281a47e363284108b82bf05c1a612145",
+			"art_cover": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Frontier Developments",
+			"extra": {
+				"about": {
+					"description": "RollerCoaster Tycoon® 3: Complete Edition",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "RollerCoasterTycoon3",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "f01b3e0178d448f0b93911e292d8e614",
+			"save_folder": "",
+			"title": "RollerCoaster Tycoon® 3: Complete Edition",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "b9af0845f9d64b0d9e851d9811141f67",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sheltered_Unicube_S3_2560x1440-c24e2bf4318dc189a15e7f659c1377b0",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sheltered_Unicube_S4_1200x1600-58640350f28283adb5f1340114ad9aaa",
+			"cloud_save_enabled": true,
+			"developer": "Team17 Digital Ltd",
+			"extra": {
+				"about": {
+					"description": "Sheltered",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Sheltered",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "3b550d92911244558770b68c5a812a5d",
+			"save_folder": "{InstallDir}/saves/",
+			"title": "Sheltered",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "0afb9d54dd3743a582b48b506466d3f8",
+			"art_cover": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/item/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/item/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Frogwares",
+			"extra": {
+				"about": {
+					"description": "Sherlock Holmes Crimes and Punishments",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "SHCrimesAndPunishments",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+			"save_folder": "{UserDir}/My Games/Sherlock Holmes - Crimes and Punishments/",
+			"title": "Sherlock Holmes Crimes and Punishments",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Kinglet",
+			"art_cover": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+			"cloud_save_enabled": false,
+			"developer": "2K Games, Inc.",
+			"extra": {
+				"about": {
+					"description": "Sid Meier's Civilization VI",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "SidMeiersCivilizationVI",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "cd14dcaa4f3443f19f7169a980559c62",
+			"save_folder": "",
+			"title": "Sid Meier's Civilization VI",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "818447bb519b46d48d365d5753362796",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicMania_Lab42_S5-1360x765-31b5379f91e2451e57e0273339bf68b8_1360x765-31b5379f91e2451e57e0273339bf68b8",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015_510x680-b83646998d6a711b6997e076e091c015",
+			"cloud_save_enabled": false,
+			"developer": "Sega of America",
+			"extra": {
+				"about": {
+					"description": "Sonic Mania",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "SonicMania",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+			"save_folder": "",
+			"title": "Sonic Mania",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Barracuda",
+			"art_cover": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/Diesel_productv2_steep_home_KEY_ART_LOGO_3840x2160-3840x2160-06904d279c608d6a87f80c5de3154272073831aa-3840x2160-17bf432e286a80db2d6bbf769b83ac66.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Epic Dev Test Account",
+			"extra": {
+				"about": {
+					"description": "Steep",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Steep",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "a646020cb93b4ea995cda70647bbe001",
+			"save_folder": "",
+			"title": "Steep",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Goldfish",
+			"art_cover": "https://cdn1.epicgames.com/ad876f7812c946f6a362bf821b971b48/item/EGS_StickItToTheMan_Zoink_S1-2560x1440-959c120e1befd416396488b6698f8113.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/ad876f7812c946f6a362bf821b971b48/item/EGS_StickItToTheMan_Zoink_S2-1200x1600-8847a93af4bb5939f82c50932e3a876e.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Ripstone Ltd",
+			"extra": {
+				"about": {
+					"description": "Stick it to the Man",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "StickItToTheMan",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ad876f7812c946f6a362bf821b971b48",
+			"save_folder": "{UserDir}/My Games/StickItToTheMan/Saves/",
+			"title": "Stick it to the Man",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Ovenbird",
+			"art_cover": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/EGS_PDX_SurvivingMars_S1_Store Primary Promo (Landscape)-2560x1440-ef059cb5bccdef0947c508db16e4a14a-2560x1440-ef059cb5bccdef0947c508db16e4a14a.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/CodeRedemption_SurvivingMars-340x440-d3bf4bea36581cf967044ef712e67f9c-340x440-d3bf4bea36581cf967044ef712e67f9c.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Paradox Interactive",
+			"extra": {
+				"about": {
+					"description": "Surviving Mars",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "SurvivingMars",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "d759128018124dcabb1fbee9bb28e178",
+			"save_folder": "{appdata}/../roaming/Surviving Mars/Save/",
+			"title": "Surviving Mars",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "cd98b47155654e1f9a9e84e60d0b49e4",
+			"art_cover": "https://cdn1.epicgames.com/489c2ca47aaa4190b694184b979d3b23/item/EGS_TheFirstTree_DavidWehle_S1-2560x1440-3cef372ae8bfa16b7a713999f46c2fba.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/489c2ca47aaa4190b694184b979d3b23/item/EGS_TheFirstTree_DavidWehle_S2-1200x1600-4f04f881988fdcf35257acdbfd98727e.jpg",
+			"cloud_save_enabled": false,
+			"developer": "David Wehle, LLC",
+			"extra": {
+				"about": {
+					"description": "The First Tree",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "TheFirstTree",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "489c2ca47aaa4190b694184b979d3b23",
+			"save_folder": "",
+			"title": "The First Tree",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "ed93b18355a84230938c705121c63661",
+			"art_cover": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/item/EGS_TheLongDark_HinterlandStudioInc_S5-1920x1080-fcfdd407ac1990bec320b49101862585.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/item/EGS_TheLongDark_HinterlandStudioInc_S6-1200x1600-3debfeb01e511b9e1221f973b6bb1fe7.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Hinterland Studio",
+			"extra": {
+				"about": {
+					"description": "The Long Dark",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "TheLongDark",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
+			"save_folder": "{AppData}/Hinterland/TheLongDark/",
+			"title": "The Long Dark",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Rosemallow",
+			"art_cover": "https://cdn1.epicgames.com/rosemallow/item/Diesel_productv2_the-outer-worlds_home_ANC_Banner_TOW_NoLogo_1920x1080-(1)-1920x1080-ebae8a5f2e33aeda17905df7c4d61ae65d6c72da-1920x1080-d71ee9b36e9b95adace99e39cc33e557.jpg",
+			"art_logo": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_Logo-1558x730-90519fa5dc9d7baa45ad3afd7fdb4cb1.png",
+			"art_square": "https://cdn1.epicgames.com/rosemallow/item/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
+			"cloud_save_enabled": true,
+			"compatible_apps": [],
+			"developer": "Private Division",
+			"extra": {
+				"about": {
+					"description": "The Outer Worlds",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "TheOuterWorlds",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "rosemallow",
+			"save_folder": "{UserSavedGames}/The Outer Worlds/",
+			"title": "The Outer Worlds",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "39a0313492c84cf79b119efb09df90e5",
+			"art_cover": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/item/EGS_TheWorldNextDoor_RoseCityGames_S1-2560x1440-3ff0e0f1f17c0e0875167f9f7be590c9.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/item/EGS_TheWorldNextDoor_RoseCityGames_S2-1200x1600-6bfdd2c32ae6b1edd8261e1bcb60d0f3.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Justechel",
+			"extra": {
+				"about": {
+					"description": "The World Next Door",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "TheWorldNextDoor",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "b258cb25f6cc4031914256c2d42b2188",
+			"save_folder": "{AppData}/../LocalLow/RoseCityGames/TheWorldNextDoor/",
+			"title": "The World Next Door",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "8e425d507bd6473dbb927f0fea8ef4f6",
+			"art_cover": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Perfect World",
+			"extra": {
+				"about": {
+					"description": "Torchlight II",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Torchlight2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "8432511ef63b489b843d21ff486a0355",
+			"save_folder": "{userdir}/My Games/runic games/torchlight 2/save/",
+			"title": "Torchlight II",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "e4867c438f854da5a1d1f8c8609cac22",
+			"art_cover": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S5-1920x1080-bc07360268fcba08b9368670d7d8a40b.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Kalypso Media Group GmbH",
+			"extra": {
+				"about": {
+					"description": "Tropico 5",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Tropico5",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "7015c51a49be4592b5ba3ae2577723c5",
+			"save_folder": "{AppData}/../Roaming/Tropico 5/Save/",
+			"title": "Tropico 5",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "UE_4.0",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.0",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.1",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.1",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.10",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.10",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.11",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.11",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.12",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.12",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.13",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.13",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.14",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.14",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.15",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.15",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.16",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.16",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.17",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.17",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.18",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.18",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.19",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.19",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.2",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.20",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.20",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.21",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.21",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.22",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.22",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.23",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.23",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.24",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.24",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.25",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.25",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.26",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.26",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.27",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.27",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.3",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.3",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.4",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.4",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.5",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.5",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.6",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.6",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.7",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.7",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.8",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.8",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.9",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Unreal Engine",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.9",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "UE_4.26Chaos",
+			"art_cover": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"art_logo": null,
+			"art_square": "https://user-images.githubusercontent.com/26871415/103480183-1fb00680-4dd3-11eb-9171-d8c4cc601fba.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "4.26-Chaos",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "UE_4.26Chaos",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": false,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "ue",
+			"save_folder": "",
+			"title": "Unreal Engine Chaos",
+			"canRunOffline": false
+		},
+		{
+			"app_name": "2cd446792405468e9e87f67649d864c2",
+			"art_cover": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/item/EGS_WargameRedDragon_EugenSystems_S1-2560x1440-300f7ef2c4b0f994757eddac0c1d7b8b.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/item/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Eugen Systems",
+			"extra": {
+				"about": {
+					"description": "Wargame: Red Dragon",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "WargameRedDragon",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "d66c34349a054c3ea529726a5687520e",
+			"save_folder": "",
+			"title": "Wargame: Red Dragon",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Angelonia",
+			"art_cover": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_PrimaryPromo-2580x1450-56dc48bef79a143cd9dae85dcf79df46.jpg",
+			"art_logo": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_Logo_White-2208x368-af0e8beb8ed46fb18607855cf6a7ba73.png",
+			"art_square": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_PortraitPromo-1280x1420-8ef789a7185a709178f51c0e9d42ee9a.jpg",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Ubisoft Entertainment",
+			"extra": {
+				"about": {
+					"description": "Watch Dogs 2",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Watchdogs2",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "angelonia",
+			"save_folder": "",
+			"title": "Watch Dogs 2",
+			"canRunOffline": true
+		},
+		{
+			"app_name": "Escolar",
+			"art_cover": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/item/EGS_WheelsofAurelia_SantaRagionesrl_S1-2560x1440-2300b1f380bd473bda7ab0c4c867fbce.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/item/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Santa Ragione",
+			"extra": {
+				"about": {
+					"description": "Wheels of Aurelia",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "WheelsOfAurelia",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+			"save_folder": "",
+			"title": "Wheels of Aurelia",
+			"canRunOffline": true
+		}
+	]
+}

@@ -1,0 +1,230 @@
+{
+  "app_name": "Fortnite",
+  "app_title": "Fortnite",
+  "app_version": "++Fortnite+Release-18.40-CL-18163738-Windows",
+  "asset_info": {
+    "app_name": "Fortnite",
+    "asset_id": "Fortnite",
+    "build_version": "++Fortnite+Release-18.40-CL-18163738-Windows",
+    "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+    "label_name": "Live-Windows",
+    "metadata": {
+      "installationPoolId": "FortniteInstallationPool"
+    },
+    "namespace": "fn"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2014-09-12T15:20:06.103Z",
+    "customAttributes": {
+      "AppAccessType": {
+        "type": "STRING",
+        "value": "Public"
+      },
+      "HasGateKeeper": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "LaunchSocialOnFirstInstall": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{\"Requirements\": {\"MacOS\": {\"MinMajorVersion\": 10, \"MinMinorVersion\" : 13, \"MinRevision\" : 6 }}}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "com.epicgames.portal.product.privacyPolicyUrl": {
+        "type": "STRING",
+        "value": "https://www.epicgames.com/site/privacypolicy"
+      },
+      "com.epicgames.portal.product.websiteUrl": {
+        "type": "STRING",
+        "value": "https://www.epicgames.com/fortnite/home"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "-Creative"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Launch Creative"
+      }
+    },
+    "description": "Battle. Build. Create. Fortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream Fortnite world. Play both Battle Royale and Fortnite Creative for FREE.",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-04T22:15:10.018Z",
+        "customAttributes": {
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Unreal Editor for Fortnite",
+        "developer": "Epic Games",
+        "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "endOfSupport": false,
+        "entitlementName": "1e8bda5cfbb641b9a9aea8bd62285f73",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "1e8bda5cfbb641b9a9aea8bd62285f73",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-08-17T11:58:41.537Z",
+        "mainGameItem": {
+          "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+          "namespace": "fn",
+          "unsearchable": false
+        },
+        "namespace": "fn",
+        "releaseInfo": [
+          {
+            "appId": "Fortnite_Studio",
+            "compatibleApps": [],
+            "dateAdded": "2021-02-15T00:00:00.000Z",
+            "id": "c5193704047a4049aa82fe0600a853a8",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Unreal Editor for Fortnite",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "Fortnite",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "fn"
+    ],
+    "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 800,
+        "md5": "cff30ac615210c1d98b4709e55b506bf",
+        "size": 321336,
+        "type": "Featured",
+        "uploadedDate": "2021-09-13T07:06:13.021Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/18BRAndroidLauncher_KeyArt_800x800-cff30ac615210c1d98b4709e55b506bf",
+        "width": 800
+      },
+      {
+        "height": 512,
+        "md5": "4cf4ff9eb0d623a2ae9cf5ecc49879c3",
+        "size": 294875,
+        "type": "AndroidIcon",
+        "uploadedDate": "2020-06-16T18:23:58.589Z",
+        "url": "https://cdn1.epicgames.com/fn/item/512-512x512-4cf4ff9eb0d623a2ae9cf5ecc49879c3.png",
+        "width": 512
+      },
+      {
+        "height": 2688,
+        "md5": "c11898c8317a712e6ac28119cbffb3e4",
+        "size": 487441,
+        "type": "Screenshot",
+        "uploadedDate": "2021-09-14T15:04:09.205Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/18BR_Screenshots_In-Game_UnlockTheBattlePass_1242x2688-c11898c8317a712e6ac28119cbffb3e4",
+        "width": 1242
+      },
+      {
+        "height": 2688,
+        "md5": "6d6782f91e2da67cff3b16e732b7253f",
+        "size": 1789055,
+        "type": "Screenshot",
+        "uploadedDate": "2021-09-13T07:06:51.984Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_18BR_Screenshots_In-Game_PerfectYourStrategy_1242x2688-6d6782f91e2da67cff3b16e732b7253f",
+        "width": 1242
+      },
+      {
+        "height": 2688,
+        "md5": "933080c2e91535160ee235ce25835829",
+        "size": 1375495,
+        "type": "Screenshot",
+        "uploadedDate": "2020-02-26T20:02:43.790Z",
+        "url": "https://cdn1.epicgames.com/fn/item/EN_12BR_Android_Screenshots_Android_ShowOff-1242x2688-933080c2e91535160ee235ce25835829.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2688,
+        "md5": "01bb2a85a0299c7893c11a483f187d8e",
+        "size": 1743786,
+        "type": "Screenshot",
+        "uploadedDate": "2020-08-28T14:30:18.166Z",
+        "url": "https://cdn1.epicgames.com/fn/item/EN_13BR_Android_Screenshots_Android_Win-1242x2688-01bb2a85a0299c7893c11a483f187d8e.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1440,
+        "md5": "da6f6a137b90887357222b762c7675a1",
+        "size": 2845761,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-13T07:06:23.160Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/18BR_S18_Launcher_EGS_Blade_2560x1440_2560x1440-da6f6a137b90887357222b762c7675a1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1a2b312c8f004e0dff3d5ed7491f1152",
+        "size": 1335540,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-13T07:06:28.957Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/18BR_S18_Launcher_EGS_Blade_1200x1600_1200x1600-1a2b312c8f004e0dff3d5ed7491f1152",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-21T15:14:25.522Z",
+    "longDescription": "**What's New**\nThe Cube has returned, but now there's\u2026 MORE OF THEM in Fortnite Chapter 2 Season 8: Cubed.\n\nFrom the smoldering wreckage of the Mothership a new threat arises. Cubes are waking up, spreading corruption, and creating Rifts to \u201cThe Sideways.\u201d\n\nEnter the Sideways to take on monsters and find Sideways Weapons. Rev up these new weapons to their superpowered state. Join the community effort to build measures against the Cubes. It\u2019s up to you \u2014 all of you \u2014 to fight for the Island\u2019s survival. \n\n\n**Description**\nOn mobile, Fortnite is the same 100-player PvP game you know from PlayStation 4, Xbox One, PC, and Mac. Same map, same gameplay, same weekly updates. Build your fort as you battle to be the last one standing. Jump in and squad up with friends around the world or in the same room!\n\nPowered by Unreal Engine 4.\n\nBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\nGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents! Last one standing wins.\n\nSQUAD UP WITH FRIENDS - Team up with your friends around the world or in the same room!\n\nEPIC UPDATES & EVENTS - Weekly updates constantly fuel the fun. New gameplay modes, serious and insane new looks for your avatar, new weapons and items\u2026.Fortnite is always expanding.\n\nCONSOLE GAMING ON THE GO - Play the full game anytime, anywhere. Complete quests on the go, progress your Battle Pass, and more.",
+    "namespace": "fn",
+    "releaseInfo": [
+      {
+        "appId": "Fortnite",
+        "compatibleApps": [],
+        "dateAdded": "2014-09-11T00:00:00.000Z",
+        "id": "5c45a347d7d64ca286db617722bfb57d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "technicalDetails": "Fortnite requires an internet connection, Android 8.0 or higher, 64 bit, and 4GB of RAM. \n\nNot compatible with Fortnite? You can still download other great games like Battle Breakers on the Epic Games app.",
+    "title": "Fortnite",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "defaultSettings": {
+    "checkUpdatesInterval": 10,
+    "enableUpdates": false,
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": false,
+    "checkForUpdatesOnStartup": true,
+    "customWinePaths": [],
+    "defaultInstallPath": "/home/dan/Games/Heroic",
+    "language": "en",
+    "maxWorkers": 0,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "showFps": false,
+    "useGameMode": false,
+    "userInfo": {
+      "epicId": "",
+      "name": "dan"
+    },
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/dan/.wine",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-6.22 (Staging)"
+    }
+  },
+  "version": "v0"
+}

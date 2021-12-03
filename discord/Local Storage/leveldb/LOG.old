@@ -1,0 +1,111 @@
+2021/11/30-21:25:17.667 45c Reusing MANIFEST /home/dan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/11/30-21:25:17.669 45c Recovering log #334
+2021/11/30-21:25:17.674 45c Reusing old log /home/dan/.config/discord/Local Storage/leveldb/000334.log 
+2021/11/30-21:27:18.781 45c Level-0 table #338: started
+2021/11/30-21:27:18.782 45c Level-0 table #338: 16259 bytes OK
+2021/11/30-21:27:18.784 45c Delete type=0 #334
+2021/11/30-22:02:18.782 45b Level-0 table #340: started
+2021/11/30-22:02:18.785 45b Level-0 table #340: 16621 bytes OK
+2021/11/30-22:02:18.786 45b Delete type=0 #337
+2021/11/30-22:38:18.785 45c Level-0 table #342: started
+2021/11/30-22:38:18.787 45c Level-0 table #342: 16678 bytes OK
+2021/11/30-22:38:18.787 45c Delete type=0 #339
+2021/11/30-22:38:18.788 45c Compacting 4@0 + 1@1 files
+2021/11/30-22:38:18.791 45c Generated table #343@0: 93 keys, 133289 bytes
+2021/11/30-22:38:18.791 45c Compacted 4@0 + 1@1 files => 133289 bytes
+2021/11/30-22:38:18.792 45c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/30-22:38:18.792 45c Delete type=2 #333
+2021/11/30-22:38:18.792 45c Delete type=2 #335
+2021/11/30-22:38:18.792 45c Delete type=2 #338
+2021/11/30-22:38:18.792 45c Delete type=2 #340
+2021/11/30-22:38:18.792 45c Delete type=2 #342
+2021/12/01-17:51:44.199 1f22 Level-0 table #345: started
+2021/12/01-17:51:44.215 1f22 Level-0 table #345: 16276 bytes OK
+2021/12/01-17:51:44.218 1f22 Delete type=0 #341
+2021/12/01-18:27:44.189 1f25 Level-0 table #347: started
+2021/12/01-18:27:44.192 1f25 Level-0 table #347: 16169 bytes OK
+2021/12/01-18:27:44.193 1f25 Delete type=0 #344
+2021/12/01-19:03:44.188 1f25 Level-0 table #349: started
+2021/12/01-19:03:44.191 1f25 Level-0 table #349: 16174 bytes OK
+2021/12/01-19:03:44.192 1f25 Delete type=0 #346
+2021/12/01-19:39:44.188 1f22 Level-0 table #351: started
+2021/12/01-19:39:44.191 1f22 Level-0 table #351: 16172 bytes OK
+2021/12/01-19:39:44.192 1f22 Delete type=0 #348
+2021/12/01-19:39:44.194 1f22 Compacting 4@0 + 1@1 files
+2021/12/01-19:39:44.197 1f22 Generated table #352@0: 93 keys, 133285 bytes
+2021/12/01-19:39:44.197 1f22 Compacted 4@0 + 1@1 files => 133285 bytes
+2021/12/01-19:39:44.198 1f22 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/01-19:39:44.198 1f22 Delete type=2 #343
+2021/12/01-19:39:44.198 1f22 Delete type=2 #345
+2021/12/01-19:39:44.198 1f22 Delete type=2 #347
+2021/12/01-19:39:44.198 1f22 Delete type=2 #349
+2021/12/01-19:39:44.198 1f22 Delete type=2 #351
+2021/12/01-20:13:53.906 1f25 Level-0 table #354: started
+2021/12/01-20:13:53.909 1f25 Level-0 table #354: 16911 bytes OK
+2021/12/01-20:13:53.910 1f25 Delete type=0 #350
+2021/12/01-20:49:00.287 1f22 Level-0 table #356: started
+2021/12/01-20:49:00.290 1f22 Level-0 table #356: 16141 bytes OK
+2021/12/01-20:49:00.291 1f22 Delete type=0 #353
+2021/12/01-21:25:00.287 1f22 Level-0 table #358: started
+2021/12/01-21:25:00.289 1f22 Level-0 table #358: 16116 bytes OK
+2021/12/01-21:25:00.290 1f22 Delete type=0 #355
+2021/12/01-22:01:00.287 1f22 Level-0 table #360: started
+2021/12/01-22:01:00.289 1f22 Level-0 table #360: 16117 bytes OK
+2021/12/01-22:01:00.290 1f22 Delete type=0 #357
+2021/12/01-22:01:00.291 1f22 Compacting 4@0 + 1@1 files
+2021/12/01-22:01:00.295 1f22 Generated table #361@0: 93 keys, 133287 bytes
+2021/12/01-22:01:00.295 1f22 Compacted 4@0 + 1@1 files => 133287 bytes
+2021/12/01-22:01:00.295 1f22 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/01-22:01:00.295 1f22 Delete type=2 #352
+2021/12/01-22:01:00.295 1f22 Delete type=2 #354
+2021/12/01-22:01:00.295 1f22 Delete type=2 #356
+2021/12/01-22:01:00.295 1f22 Delete type=2 #358
+2021/12/01-22:01:00.295 1f22 Delete type=2 #360
+2021/12/01-22:37:00.287 1f25 Level-0 table #363: started
+2021/12/01-22:37:00.288 1f25 Level-0 table #363: 16111 bytes OK
+2021/12/01-22:37:00.289 1f25 Delete type=0 #359
+2021/12/01-23:13:00.287 1f22 Level-0 table #365: started
+2021/12/01-23:13:00.288 1f22 Level-0 table #365: 16108 bytes OK
+2021/12/01-23:13:00.288 1f22 Delete type=0 #362
+2021/12/01-23:49:00.287 1f25 Level-0 table #367: started
+2021/12/01-23:49:00.290 1f25 Level-0 table #367: 16113 bytes OK
+2021/12/01-23:49:00.292 1f25 Delete type=0 #364
+2021/12/02-00:25:00.287 1f25 Level-0 table #369: started
+2021/12/02-00:25:00.288 1f25 Level-0 table #369: 16111 bytes OK
+2021/12/02-00:25:00.289 1f25 Delete type=0 #366
+2021/12/02-00:25:00.290 1f25 Compacting 4@0 + 1@1 files
+2021/12/02-00:25:00.308 1f25 Generated table #370@0: 93 keys, 133289 bytes
+2021/12/02-00:25:00.308 1f25 Compacted 4@0 + 1@1 files => 133289 bytes
+2021/12/02-00:25:00.309 1f25 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/02-00:25:00.309 1f25 Delete type=2 #361
+2021/12/02-00:25:00.309 1f25 Delete type=2 #363
+2021/12/02-00:25:00.309 1f25 Delete type=2 #365
+2021/12/02-00:25:00.309 1f25 Delete type=2 #367
+2021/12/02-00:25:00.309 1f25 Delete type=2 #369
+2021/12/02-01:01:00.287 1f22 Level-0 table #372: started
+2021/12/02-01:01:00.290 1f22 Level-0 table #372: 16110 bytes OK
+2021/12/02-01:01:00.291 1f22 Delete type=0 #368
+2021/12/02-01:37:00.287 1f22 Level-0 table #374: started
+2021/12/02-01:37:00.290 1f22 Level-0 table #374: 16111 bytes OK
+2021/12/02-01:37:00.291 1f22 Delete type=0 #371
+2021/12/02-02:13:00.286 1f25 Level-0 table #376: started
+2021/12/02-02:13:00.289 1f25 Level-0 table #376: 16120 bytes OK
+2021/12/02-02:13:00.291 1f25 Delete type=0 #373
+2021/12/02-02:49:00.287 1f25 Level-0 table #378: started
+2021/12/02-02:49:00.290 1f25 Level-0 table #378: 16120 bytes OK
+2021/12/02-02:49:00.291 1f25 Delete type=0 #375
+2021/12/02-02:49:00.291 1f25 Compacting 4@0 + 1@1 files
+2021/12/02-02:49:00.293 1f25 Generated table #379@0: 93 keys, 133289 bytes
+2021/12/02-02:49:00.293 1f25 Compacted 4@0 + 1@1 files => 133289 bytes
+2021/12/02-02:49:00.294 1f25 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/02-02:49:00.294 1f25 Delete type=2 #370
+2021/12/02-02:49:00.294 1f25 Delete type=2 #372
+2021/12/02-02:49:00.294 1f25 Delete type=2 #374
+2021/12/02-02:49:00.294 1f25 Delete type=2 #376
+2021/12/02-02:49:00.294 1f25 Delete type=2 #378
+2021/12/02-03:25:00.286 1f22 Level-0 table #381: started
+2021/12/02-03:25:00.289 1f22 Level-0 table #381: 16121 bytes OK
+2021/12/02-03:25:00.289 1f22 Delete type=0 #377
+2021/12/02-04:01:00.288 1f25 Level-0 table #383: started
+2021/12/02-04:01:00.290 1f25 Level-0 table #383: 16127 bytes OK
+2021/12/02-04:01:00.291 1f25 Delete type=0 #380
